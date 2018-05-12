@@ -1,0 +1,29 @@
+_repo: Sexueele-Zeden-in-Woord-en-BeeldLiefde-en-Zinnelijkheid_23238
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 23238-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Vloten Elderinck, D. Ph. van
+    alias: Elderinck, D. Ph. Van Vloten
+    gutenberg_agent_id: '25769'
+    url: http://www.gutenberg.org/2009/agents/25769
+description: ''
+gutenberg_issued: '2007-10-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '23238'
+language: nl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'N'
+- !lcsh 'Love in art -- History'
+- !lcsh 'Nude in art -- History'
+- !lcsh 'Sex -- Caricatures and cartoons'
+title: 'Sexueele Zeden in Woord en Beeld
+
+  Liefde en Zinnelijkheid'
+url: http://www.gutenberg.org/ebooks/23238
